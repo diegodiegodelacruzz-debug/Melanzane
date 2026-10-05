@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Melanzane</string>
+    <string name="title_activity_main">Melanzane</string>
+    <string name="package_name">com.melanzane.app</string>
+    <string name="custom_url_scheme">com.melanzane.app</string>
+</resources>
